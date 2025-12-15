@@ -50,6 +50,6 @@ em.especial  {
     background: #000000;
 }
 
-span.normal {
+.normal span {
     font-weight: bold;
 }
